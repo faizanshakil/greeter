@@ -10,6 +10,7 @@ class GreeterHandler(BaseHTTPRequestHandler):
         <body>
             <h1>Hello, Faizan!</h1>
             <p>Have a great day!</p>
+            <p>Welcome to my greeter app.</p>
         </body>
         </html>
         """
